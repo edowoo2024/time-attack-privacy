@@ -1,82 +1,71 @@
-📄 Time Attack – Privacy Policy
+Time Attack – Privacy Policy
 
-Last updated: 2025-01-01
+Last updated: YYYY-MM-DD
 
-Thank you for playing Time Attack (“the Game”).
-This Privacy Policy explains how your information is collected and used when you use this game.
-
-By installing or using the Game, you agree to the terms of this Privacy Policy.
+Thank you for playing Time Attack.
+This Privacy Policy explains how the game handles user information.
 
 📌 1. Information We Collect
-1.1 Automatically Collected Data (via AdMob)
 
-The Game uses Google AdMob to display advertisements.
-AdMob may automatically collect certain data, including:
+Time Attack does not collect, store, or share any personal data directly.
 
-Device identifiers (e.g., Advertising ID)
+However, the game may use third-party services (such as advertising providers) that may collect information automatically.
 
-Approximate location (country/region for ad delivery)
+Possible automatically collected data (via third-party SDKs)
 
-App interactions (e.g., ad views and clicks)
+Device information (OS version, device model)
 
-Crash logs and performance data
+General app usage data
 
-IP address (processed temporarily for security and ad delivery)
+Approximate location (non-GPS, coarse)
 
-This information is collected directly by Google and processed according to Google's Privacy Policy.
+Advertising identifiers (Google Advertising ID)
 
-👉 Google AdMob Privacy Policy:
+Time Attack itself does not gather or store this information.
+
+📌 2. Third-Party Services
+
+The game may include third-party services such as advertising (Google AdMob).
+
+These services may collect data according to their own privacy policies:
+
+Google AdMob
 https://policies.google.com/privacy
 
-📌 2. How We Use Your Information
+Please review their privacy policy if you want to understand how they use collected data.
 
-Information collected through AdMob may be used for:
+📌 3. How We Use Information
 
-Displaying ads (personalized or non-personalized)
+Any automatically collected data (via AdMob or other providers) is used for:
 
-Analytics and performance improvements
+Delivering ads
 
-Preventing fraud and abuse
+Improving ad relevance
 
-Ensuring ad delivery and system security
+Analyzing app performance
 
-The Game itself does not collect, store, or transmit any personal data directly.
-
-📌 3. Third-Party Services
-
-The Game uses the following third-party service:
-
-Google AdMob (Google LLC)
-Used for advertisements within the Game.
-
-Their data collection and usage follow their own privacy policies.
+Time Attack does not use the information for any other purpose.
 
 📌 4. Children’s Privacy
 
-The Game is not directed toward children under the age of 13.
-If you are a parent or guardian and believe that your child has provided personal information without consent, please contact us.
+Time Attack does not knowingly collect personal information from children under 13.
+If you believe a child provided personal information, please contact us and we will delete it immediately.
 
-📌 5. Consent in the European Union (EU/EEA)
+📌 5. Data Retention & Deletion
 
-For users located in the EU/EEA/UK, the Game uses Google’s User Messaging Platform (UMP) to request consent for:
+Time Attack does not store any personal data directly.
+Data collected by third parties is retained according to their policies.
 
-Personalized ads
-
-Non-personalized ads
-
-Data collection for advertising purposes
-
-Users may change their ad consent settings at any time through Google’s tools.
+If you want to delete data collected through Google services, you may request it from Google directly.
 
 📌 6. Changes to This Policy
 
 This Privacy Policy may be updated occasionally.
-Updates will be posted on this page with a revised “Last Updated” date.
+Continued use of the game after policy changes means you accept the updated version.
 
 📌 7. Contact Information
 
 If you have any questions about this Privacy Policy, please contact:
 
 Developer: Time Attack Game Developer
-
 Email: edowoo2024@gmail.com
