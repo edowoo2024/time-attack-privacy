@@ -1,6 +1,6 @@
 Time Attack – Privacy Policy
 
-Last updated: YYYY-MM-DD
+Last updated: 2025-11-18
 
 Thank you for playing Time Attack.
 This Privacy Policy explains how the game handles user information.
