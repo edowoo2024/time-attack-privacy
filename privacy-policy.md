@@ -78,4 +78,5 @@ Updates will be posted on this page with a revised “Last Updated” date.
 If you have any questions about this Privacy Policy, please contact:
 
 Developer: Time Attack Game Developer
+
 Email: edowoo2024@gmail.com
